@@ -5,4 +5,4 @@
  [link]http://www.google.com
 
 마이 갤러리 연습
-https://github.com/jinga80/likelion13th_course/blob/6490dc24ffcaaaebf84957adab78f9f04ae7e645/css_practice/14_img_galley.html
+https://github.com/jinga80/likelion13th_course/css_practice/14_img_galley.html
