@@ -5,5 +5,5 @@
  [link]http://www.google.com
 
 마이 갤러리 연습
-Toy Project - 나의 사진 갤러리 [이동](https://jinga80.github.io/likelion13th_course/css_practice/14_img_galley.html) [code]
+Toy Project - 나의 사진 갤러리 [이동](https://jinga80.github.io/likelion13th_course/css_practice/14_img_galley.html) [code](https://jinga80.github.io/likelion13th_course/css_practice/14_img_galley.html)
 
