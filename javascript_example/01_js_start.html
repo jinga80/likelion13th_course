@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p id="p1">여기의 내용이 변경됩니다.</p>
+    <button onclick="change_content()">선택</button>
+    <p id="p2">여기의 내용은 두번클릭하면 변경됩니다.</p>
+    <button ondblclick="change_content()">선택2</button>
+    <a href="">링크내용</a>
+    
+
+</body>
+<script>
+    function change_content() {
+        //p테그의 요소를 가져와서 내용을 변경하는 한줄 코드
+        document.getElementById("p1").innerHTML = "변경된 내용"
+    }
+</script>
+</html>
