@@ -28,3 +28,5 @@ all_dat = pd.DataFrame(dict_dat)
 print(all_dat)
 all_dat.to_csv("kosdaqinfo.csv", index=True)
 all_dat.to_excel("kosdaqinfo.xlsx", index=True)
+
+#시황정보
