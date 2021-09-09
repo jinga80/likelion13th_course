@@ -11,4 +11,4 @@ Toy Project - 나의 사진 갤러리 [이동](https://jinga80.github.io/likelio
 [이동](https://jinga80.github.io/likelion13th_course/jin_homepage/index.html)
 
 영화 댓글 크롤링
-[코드](
+[코드](https://github.com/jinga80/likelion13th_course/web_data/12_multipage.py)
