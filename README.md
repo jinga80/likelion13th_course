@@ -34,5 +34,5 @@ Toy Project - 나의 사진 갤러리 [이동](https://jinga80.github.io/likelio
 <br>
 
 folium 실습
-- 기억에 남는 장소 베스트5 [이동] (https://jinga80.github.io/likelion13th_course/jin_homepage/my01.html)
-- 맛집 베스트5 [이동] (https://jinga80.github.io/likelion13th_course/jin_homepage/my02.html)
+- 기억에 남는 장소 베스트5 [이동](https://jinga80.github.io/likelion13th_course/jin_homepage/my01.html)
+- 맛집 베스트5 [이동](https://jinga80.github.io/likelion13th_course/jin_homepage/my02.html)
